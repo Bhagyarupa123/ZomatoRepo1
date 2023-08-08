@@ -6,6 +6,9 @@
         public string recipeImage { get; set; }
         public double price { get; set; }
         public string description { get; set; }
-        public string imageUrl { get; set; }
+        public int recipeId { get; set; }
+
+        public int orderId { get; set; }
+    
     }
 }
