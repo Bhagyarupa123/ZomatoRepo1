@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nlanka\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\CaseStudy.csproj": {}
+    "C:\\Users\\bkoppisetti\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\CaseStudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nlanka\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\CaseStudy.csproj": {
+    "C:\\Users\\bkoppisetti\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\CaseStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nlanka\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\CaseStudy.csproj",
+        "projectUniqueName": "C:\\Users\\bkoppisetti\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\CaseStudy.csproj",
         "projectName": "CaseStudy",
-        "projectPath": "C:\\Users\\nlanka\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\CaseStudy.csproj",
-        "packagesPath": "C:\\Users\\nlanka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nlanka\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\obj\\",
+        "projectPath": "C:\\Users\\bkoppisetti\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\CaseStudy.csproj",
+        "packagesPath": "C:\\Users\\bkoppisetti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bkoppisetti\\Desktop\\CaseStudy\\ZomatoRepo1\\ZomatoBackend\\CaseStudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nlanka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bkoppisetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
