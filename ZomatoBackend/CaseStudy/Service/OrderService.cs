@@ -35,6 +35,8 @@ namespace CaseStudy.Service
                                recipeImage = r.ImageUrl,
                                description = r.Description,
                                price = r.Price,
+                               orderId=o.orderId,
+                               recipeId=r.RecipeId
 
 
                            }).ToList();
